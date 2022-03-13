@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Machine Learning
 - 🌱 I’m currently learning machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning
-- 📫 You can contact me on my mail abhijeet.sasmal.opensource@gmail.com
+- 📫 You can contact me on my mail abhijeetsasmal74@gmail.com
 
 <!---
 AbhijeetSasmal15121996/AbhijeetSasmal15121996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
